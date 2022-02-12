@@ -1,0 +1,13 @@
+body {
+	margin: 0!important;
+	padding: 0!important;
+}
+dl dt {
+	font-size: 16px!important;
+}
+.visualizacaoEvento {
+    display: block;
+}
+.editarEvento {
+    display: none;
+}
